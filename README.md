@@ -2,28 +2,28 @@
 
 ## :memo: Descrição do projeto
 * Projeto desenvolvido em Pyhton para demonstrar funcionamento do aplicativo UrbanFlow. 
-<br>
+  <br>
 * O UrbanFlow é uma ferramenta inovadora projetada para melhorar a experiência dos usuários de transporte público. Ele oferece uma série de recursos essenciais para ajudar os passageiros a acompanhar e otimizar suas viagens de ônibus de maneira conveniente e eficiente.
 
 
 ## :books: Funcionalidades
 
 * Funcionalidade que permite que o usuário faça cadastro no app e digite seus dados.
-<br>
+  <br>
 * Função que pede para o usuário fazer login, passando o email e senha que foram digitados pelo mesmo no registro, com
   uma verificação que caso usuário erre 3 vezes, o programa se encerra.
-<br>
+  <br>
 * Lista de opções para o usuário escolher qual ele quer utilizar.
-<br>
+  <br>
 * Função que printa o dicionário que contém as informações de todos os ônibus cadastrados.
-<br>
+  <br>
 * Função que mostra 3 destinos para o usuário escolher, e a partir disso mostra as opções de ônibus para o destino
   escolhido.
-<br>
+  <br>
 * Função que permite que o usuário escolha um ônibus para adicionar na lista de favoritos, com uma verificação que testa se o ônibus ja está na lista de favoritos.
-<br>
+  <br>
 * Função que mostra a lista de favoritos, com uma verificação para informar ao usuário caso a lista ainda esteja vazia.
-<br>
+  <br>
 
 
 ## :seedling: Instruções de uso
@@ -38,7 +38,7 @@
 ## :clipboard: Requisitos
 
 * Python 3.9
-<br>
+  <br>
 * PyCharm IDE
 
 
